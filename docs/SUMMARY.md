@@ -7,3 +7,6 @@
 
 - Python
     - [hello_world.py](Python/hello_world.md)
+
+- Shell
+    - [hello_world.sh](Shell/hello_world.md)
