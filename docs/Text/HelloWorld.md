@@ -1,5 +1,0 @@
-# HelloWorld.txt
-
-```
-Hello World
-```

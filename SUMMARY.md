@@ -10,3 +10,6 @@
 
 - Shell
     - [hello_world.sh](Shell/hello_world.md)
+
+- Text
+    - [HelloWorld.txt](Text/HelloWorld.md)
