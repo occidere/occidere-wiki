@@ -3,7 +3,7 @@
 - [Introduction](README.md)
 
 - Java
-    - [HelloWorld.java](Java/HelloWorld.java)
+    - [HelloWorld.java](Java/HelloWorld.md)
 
 - Python
-    - [hello_world.py](Python/hello_world.py)
+    - [hello_world.py](Python/hello_world.md)
